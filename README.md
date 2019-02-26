@@ -1,5 +1,8 @@
-# ubuntu-obs-mysql
-La imagen de Docker esta construida usando lo siguiente:
+# UBUNTU MYSQL APACHE PHP OBSERVIUM   --  DIWAIT
+
+
+
+# La imagen de Docker esta construida usando lo siguiente:
 
 *Ubuntu:16.04 como base
 
@@ -13,8 +16,10 @@ La imagen de Docker esta construida usando lo siguiente:
  
  -Configura mysql y php
  
+ 
+ 
 
-Para desplegar este docker en un sistema, contamos con todas estas opciones:
+# Para desplegar este docker en un sistema, contamos con todas estas opciones:
 
 1- docker pull alediwait/observium
 
